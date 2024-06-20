@@ -47,6 +47,9 @@ header input::placeholder {
     color: white;
     opacity: 70%;
 }
+header input::placeholder {
+    color: white;
+}
 
 /* Main */
 main {
